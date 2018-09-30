@@ -18,7 +18,7 @@ email: contact@mehranmehri.com
 description: >- # this means to ignore newlines until "baseurl:"
   My Personal Website
 baseurl: "/my-website"
-url: "https://mnmehri.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mnmehri
 github_username:  mnmehri
 
